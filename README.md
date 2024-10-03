@@ -1,2 +1,3 @@
 # Gim-Management-System
 The Gym Management System is designed to help clients track fitness progress and assist trainers in managing their schedules efficiently. 
+It features progress monitoring, personalized fitness and diet plans, subscription management, and member scheduling. Both members and trainers can create profiles and track progress through a visual chart. Personalized workout and meal plans are adjusted dynamically based on progress data. The system also includes subscription plans, a real-time messaging feature for communication between clients and trainers, and a scheduling tool that allows members to reserve or reschedule gym time to prevent overcrowding.
